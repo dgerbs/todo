@@ -8,6 +8,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'haml'
 gem 'bootstrap-sass', '~> 2.3.2.0'
+gem 'bootstrap-datepicker-rails'
 gem 'simple_form'
 
 # gem 'turbolinks'

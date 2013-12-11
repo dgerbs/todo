@@ -10,6 +10,11 @@
  *
  *= require_self
  *= require_tree .
+ *= require bootstrap-datepicker
  */
 
 @import 'bootstrap';
+
+.modal form {
+  margin-bottom: 0;
+}
