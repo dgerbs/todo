@@ -1,6 +1,5 @@
 Todo::Application.routes.draw do
  
-  # root 'welcome#index'
-
+  root 'pages#home'
   
 end
