@@ -7,10 +7,10 @@
     = csrf_meta_tags
   %body
     .container
-      .jumbotron
+      .hero-unit.text-center
         %h1
           To Do
-          %small Welcome!
+        %p 
         = link_to 'New Task', new_task_path, class: 'btn btn-primary', remote: true      
     = yield
 
