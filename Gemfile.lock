@@ -116,7 +116,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-datepicker-rails
-  bootstrap-sass (~> 2.3.2.0)
+  bootstrap-sass
   coffee-rails (~> 4.0.0)
   haml
   jbuilder (~> 1.2)
